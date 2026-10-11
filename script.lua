@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yxkal999YT/overdrivehub.xyz/refs/heads/main/auth.lua",true))()
+--[[ generated @ discord.gg/25ms ]]return loadstring(buffer.tostring(game:GetService'EncodingService':DecompressBuffer(buffer.fromstring(base64.decode'KLUv/SA60QEAeyJlcnJvciI6Im9uIGxpbmUgOCwgZXhwZWN0ZWQgZW5kIGluIGZ1bmN0aW9uLCBnb3QgPGVvZj4ifQ=='),Enum.CompressionAlgorithm.Zstd)))(...)
